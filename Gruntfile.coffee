@@ -15,3 +15,5 @@ module.exports = (g) ->
           jshintrc: '.jshintrc'
 
   g.loadNpmTasks 'grunt-contrib-jshint'
+
+  g.registerTask 'default', 'jshint'
