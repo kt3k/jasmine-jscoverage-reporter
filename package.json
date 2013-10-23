@@ -1,0 +1,26 @@
+{
+  "name": "jasmine-jscoverage-reporter",
+  "version": "0.1.1",
+  "description": "jasmine-jscoverage-reporter ===========================",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kt3k/jasmine-jscoverage-reporter.git"
+  },
+  "keywords": [
+    "jasmine",
+    "jscoverage",
+    "coveralls"
+  ],
+  "author": "Yosiya Hinosawa <stibium121@gmail.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "4e660e7c2994bfd908ef18571e1e80f028d4c5dd",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.6.4"
+  }
+}
